@@ -17,7 +17,7 @@ public class Login extends JFrame implements ActionListener
                 text.setBounds(220,40,400,40);//To make the text visible
                 add(text);
 
-                JLabel cardno = new JLabel("Card No :");// cardno
+                JLabel cardno = new JLabel("Card No :"); //Enter your card no
                 cardno.setFont(new Font("Britannic Bold",Font.BOLD,25));
                 cardno.setBounds(160,150,150,40);//To make the text visible
                 add(cardno);
